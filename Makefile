@@ -1,6 +1,6 @@
 PHONY: run
 run:
-	python main.py
+	python ./gallery/main.py
 
 PHONY: install
 install:
